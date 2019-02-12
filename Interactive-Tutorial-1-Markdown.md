@@ -105,15 +105,18 @@ Create a table listing your 3 favorite animals, books, and places on campus. Use
 Write your favorite quote. It must be attributed to Albert Einstein.
 
 <!-- Write your answer here. -->
+> Imagination is more important than knowledge.
 
 ## Horizontal Rules
 
 Add a horizontal rule:
 
 <!-- Write your answer here. -->
-
+Life Is Great
+--- hello.
 ## LaTeX Formatting
 
 Copy the equation towards the end of the [Markdown tutorial](https://github.com/AguaClara/aguaclara_tutorial/wiki/Markdown#latex-formatting) and paste it here:
 
 <!-- Write your answer here. -->
+$$ a^2 + b^2 = c^2 $$
